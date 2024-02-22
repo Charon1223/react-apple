@@ -1,0 +1,10 @@
+
+.detail-img{
+  width: 100vw;
+  object-fit: contain;
+}
+.detail-wrapper{
+  padding: 20px;
+  width: 80%;
+  margin: 0 auto;
+}
